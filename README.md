@@ -94,25 +94,23 @@
 
 ---
 
-### 🏆 GitHub Trophies
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=PR-REDHAWK&theme=radical&no-frame=false&no-bg=true&margin-w=4" alt="GitHub Trophies" />
-</div>
-
----
-
 ### 📊 GitHub Analytics & Streak
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=PR-REDHAWK&theme=radical&hide_border=false&include_all_commits=true&count_private=true&show_icons=true" alt="Priyanshu's GitHub Stats" height="175" />
-  <img src="https://streak-stats.demolab.com/?user=PR-REDHAWK&theme=radical&hide_border=false" alt="GitHub Streak" height="175" />
+  <a href="https://github.com/PR-REDHAWK">
+    <img src="https://github-readme-stats-fast.vercel.app/api?username=PR-REDHAWK&theme=radical&hide_border=false&include_all_commits=true&count_private=true&show_icons=true" alt="Priyanshu's GitHub Stats" height="175" />
+  </a>
+  <a href="https://github.com/PR-REDHAWK">
+    <img src="https://streak-stats.demolab.com/?user=PR-REDHAWK&theme=radical&hide_border=false" alt="GitHub Streak" height="175" />
+  </a>
 </div>
 
 <br/>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PR-REDHAWK&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages" height="165" />
+  <a href="https://github.com/PR-REDHAWK">
+    <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=PR-REDHAWK&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages" height="165" />
+  </a>
 </div>
 
 ---
@@ -125,33 +123,19 @@
 
 ---
 
-### 🔝 Featured & Top Contributed Projects
+### 🔝 Featured Projects
 
 <div align="center">
   <a href="https://github.com/PR-REDHAWK/SMART-INDIA-HACKATHON-2026">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=PR-REDHAWK&repo=SMART-INDIA-HACKATHON-2026&theme=radical" alt="SMART-INDIA-HACKATHON-2026" />
+    <img src="https://github-readme-stats-fast.vercel.app/api/pin/?username=PR-REDHAWK&repo=SMART-INDIA-HACKATHON-2026&theme=radical" alt="SMART-INDIA-HACKATHON-2026" />
   </a>
   <a href="https://github.com/PR-REDHAWK/ECR">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=PR-REDHAWK&repo=ECR&theme=radical" alt="ECR" />
+    <img src="https://github-readme-stats-fast.vercel.app/api/pin/?username=PR-REDHAWK&repo=ECR&theme=radical" alt="ECR" />
   </a>
   <a href="https://github.com/PR-REDHAWK/SentinalAI">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=PR-REDHAWK&repo=SentinalAI&theme=radical" alt="SentinalAI" />
+    <img src="https://github-readme-stats-fast.vercel.app/api/pin/?username=PR-REDHAWK&repo=SentinalAI&theme=radical" alt="SentinalAI" />
   </a>
   <a href="https://github.com/PR-REDHAWK/EliteX_Hackathon">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=PR-REDHAWK&repo=EliteX_Hackathon&theme=radical" alt="EliteX_Hackathon" />
-  </a>
-</div>
-
-<br/>
-
-<div align="center">
-  <img src="https://github-contributor-stats.vercel.app/api?username=PR-REDHAWK&limit=5&theme=dark&combine_all_yearly_contributions=true" alt="Top Contributed Repos" />
-</div>
-
----
-
-<div align="center">
-  <a href="https://visitcount.itsvg.in">
-    <img src="https://visitcount.itsvg.in/api?id=PR-REDHAWK&icon=0&color=0" alt="Visitor Count" />
+    <img src="https://github-readme-stats-fast.vercel.app/api/pin/?username=PR-REDHAWK&repo=EliteX_Hackathon&theme=radical" alt="EliteX_Hackathon" />
   </a>
 </div>
