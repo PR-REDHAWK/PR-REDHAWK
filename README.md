@@ -139,3 +139,10 @@
     <img src="https://github-readme-stats-fast.vercel.app/api/pin/?username=PR-REDHAWK&repo=EliteX_Hackathon&theme=radical" alt="EliteX_Hackathon" />
   </a>
 </div>
+
+---
+
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=PR-REDHAWK&color=9D4EDD&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile Views" />
+</div>
+
