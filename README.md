@@ -140,9 +140,4 @@
   </a>
 </div>
 
----
-
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=PR-REDHAWK&color=9D4EDD&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile Views" />
-</div>
 
