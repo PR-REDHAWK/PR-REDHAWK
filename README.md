@@ -98,10 +98,10 @@
 
 <div align="center">
   <a href="https://github.com/PR-REDHAWK">
-    <img src="https://github-readme-stats-fast.vercel.app/api?username=PR-REDHAWK&theme=radical&hide_border=false&include_all_commits=true&count_private=true&show_icons=true" alt="Priyanshu's GitHub Stats" height="175" />
+    <img src="https://github-readme-stats-fast.vercel.app/api?username=PR-REDHAWK&theme=radical&hide_border=false&include_all_commits=true&count_private=true&show_icons=true&cache_seconds=1800" alt="Priyanshu's GitHub Stats" height="175" />
   </a>
   <a href="https://github.com/PR-REDHAWK">
-    <img src="https://streak-stats.demolab.com/?user=PR-REDHAWK&theme=radical&hide_border=false" alt="GitHub Streak" height="175" />
+    <img src="https://streak-stats.demolab.com/?user=PR-REDHAWK&theme=radical&hide_border=false&cache_seconds=1800" alt="GitHub Streak" height="175" />
   </a>
 </div>
 
@@ -109,7 +109,7 @@
 
 <div align="center">
   <a href="https://github.com/PR-REDHAWK">
-    <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=PR-REDHAWK&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages" height="165" />
+    <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=PR-REDHAWK&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact&cache_seconds=1800" alt="Top Languages" height="165" />
   </a>
 </div>
 
@@ -118,7 +118,7 @@
 ### ✍️ Developer Quote
 
 <div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Dev Quote" />
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical&cache_seconds=1800" alt="Dev Quote" />
 </div>
 
 ---
@@ -127,16 +127,16 @@
 
 <div align="center">
   <a href="https://github.com/PR-REDHAWK/SMART-INDIA-HACKATHON-2026">
-    <img src="https://github-readme-stats-fast.vercel.app/api/pin/?username=PR-REDHAWK&repo=SMART-INDIA-HACKATHON-2026&theme=radical" alt="SMART-INDIA-HACKATHON-2026" />
+    <img src="https://github-readme-stats-fast.vercel.app/api/pin/?username=PR-REDHAWK&repo=SMART-INDIA-HACKATHON-2026&theme=radical&cache_seconds=1800" alt="SMART-INDIA-HACKATHON-2026" />
   </a>
   <a href="https://github.com/PR-REDHAWK/ECR">
-    <img src="https://github-readme-stats-fast.vercel.app/api/pin/?username=PR-REDHAWK&repo=ECR&theme=radical" alt="ECR" />
+    <img src="https://github-readme-stats-fast.vercel.app/api/pin/?username=PR-REDHAWK&repo=ECR&theme=radical&cache_seconds=1800" alt="ECR" />
   </a>
   <a href="https://github.com/PR-REDHAWK/SentinalAI">
-    <img src="https://github-readme-stats-fast.vercel.app/api/pin/?username=PR-REDHAWK&repo=SentinalAI&theme=radical" alt="SentinalAI" />
+    <img src="https://github-readme-stats-fast.vercel.app/api/pin/?username=PR-REDHAWK&repo=SentinalAI&theme=radical&cache_seconds=1800" alt="SentinalAI" />
   </a>
   <a href="https://github.com/PR-REDHAWK/EliteX_Hackathon">
-    <img src="https://github-readme-stats-fast.vercel.app/api/pin/?username=PR-REDHAWK&repo=EliteX_Hackathon&theme=radical" alt="EliteX_Hackathon" />
+    <img src="https://github-readme-stats-fast.vercel.app/api/pin/?username=PR-REDHAWK&repo=EliteX_Hackathon&theme=radical&cache_seconds=1800" alt="EliteX_Hackathon" />
   </a>
 </div>
 
